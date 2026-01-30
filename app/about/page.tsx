@@ -70,7 +70,7 @@ export default function AboutPage() {
             <li>Phone: (+66) 935619919</li>
             <li>Email: sariyapunprang@gmail.com</li>
             <li>GitHub: SariyaP</li>
-            <li>Portfolio: https://your-portfolio-url.com</li>
+            <li>Portfolio: https://sariya-portfolio.vercel.app/</li>
           </ul>
           <div className="flex flex-wrap gap-3 pt-2">
             <Button href="mailto:sariyapunprang@gmail.com">Email me</Button>

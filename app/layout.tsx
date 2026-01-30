@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   description:
     "UX/UI Designer & Frontend Developer with experience in building responsive web interfaces and user-centered designs.",
-  metadataBase: new URL("https://your-portfolio-url.com")
+  metadataBase: new URL("https://sariya-portfolio.vercel.app/")
 };
 
 export default function RootLayout({
